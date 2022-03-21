@@ -1,16 +1,16 @@
 # 算法·进阶石（algorithm-stone）—— 进击的每一步！
-
+# IcathianRain forked from ACM-clan
 <p align='left'>
 <a href="https://github.com/acm-clan/algorithm-stone" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/acm-clan/algorithm-stone?label=Stars&style=flat-square&logo=GitHub"></a>    <a href="https://oss.v8cloud.cn/markdown/72eeefe8497133dd56bbe3c56c794278.png" target="_blank"><img src="https://img.shields.io/badge/公众号-@ACM算法日常-000000.svg?style=flat-square&logo=WeChat"></a>    <a href="https://www.zhihu.com/people/acm-clan" target="_blank"><img src="https://img.shields.io/badge/知乎-@ACM算法日常-000000.svg?style=flat-square&logo=Zhihu"></a>
 </p>
 
-本项目是公众号《ACM算法日常》整理的一个算法学习路线图。
+<!-- 本项目是公众号《ACM算法日常》整理的一个算法学习路线图。 -->
 
-### 使用说明：
+<!-- ### 使用说明：
 1 fork本项目；  
 2 使用鼠标点击下面的图片，会打开一个svg文件，按照svg文件中题目从上到下从左往右的顺序刷题，题目顺序是精心编排的，减少做题的梯度；  
 3 使用vscode的leetcode插件做题；  
-4 将做过的题放到user目录中，可以点亮题目，svg图片中的蓝色实验瓶子是题解链接。  
+4 将做过的题放到user目录中，可以点亮题目，svg图片中的蓝色实验瓶子是题解链接。   -->
 
 > Tip:点击svg文件中的题目，可以跳转到题目页面。
 
@@ -41,34 +41,34 @@
 
 #### Tree路线图（进度100%）
 1. [动画红黑树，旋转的艺术](https://mp.weixin.qq.com/s/2AfnnCALekwo4K_okRdpNg)  
-<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_tree.svg">
+<img src="./images/leetcode_tree.svg">
 
 #### 动态规划路线图（进度40%）
-<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_dp.svg">
+<img src="./images/leetcode_dp.svg">
 
 <!-- #### 并查集路线图（进度10%）
-<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_union_find.svg"> -->
+<img src="./images/leetcode_union_find.svg"> -->
 
 #### 堆栈队列路线图（进度100%）
 1. [算法动画秒懂并查集](https://mp.weixin.qq.com/s/rF5bohHf3XfstGkjBawBuw)
 2. [动画解说单调栈](https://mp.weixin.qq.com/s/XsYD1lkiILcMcd3_vRws7A)  
 3. [滑动窗口入门](https://mp.weixin.qq.com/s/InpmYAfeesc7MHMCV50b-Q)  
-<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_heap_stack_queue.svg">
+<img src="./images/leetcode_heap_stack_queue.svg">
 
 #### 链表路线图（进度100%）
-<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_linked_list.svg">
+<img src="./images/leetcode_linked_list.svg">
 
 #### 二分查找（进度100%）
-<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_binary_search.svg">
+<img src="./images/leetcode_binary_search.svg">
 
 #### 几何题路线图（进度100%）
-<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_geometry.svg">
+<img src="./images/leetcode_geometry.svg">
 
 #### 小众题路线图（进度100%）
-<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_mini.svg">
+<img src="./images/leetcode_mini.svg">
 
 ### Codeforces Div.3 Div.2路线图（进度1%）
-<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/codeforces.svg">
+<img src="./images/codeforces.svg">
 
 ### 安装开发环境
 
