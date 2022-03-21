@@ -418,6 +418,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(168.0, -1338.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 53&#45;&gt;121 -->
   <g class="edge" id="edge3">
@@ -439,6 +443,10 @@
       303. 区域和检索 - 数组不可变
      </text>
     </a>
+   </g>
+   <g transform="translate(180.0, -1266.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 121&#45;&gt;303 -->
@@ -483,6 +491,10 @@
       70. 爬楼梯
      </text>
     </a>
+   </g>
+   <g transform="translate(337.5, -1410.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 特殊数列&#45;&gt;70 -->
@@ -660,6 +672,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(488.0, -1410.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 树塔&#45;&gt;118 -->
   <g class="edge" id="edge16">
@@ -770,6 +786,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(606.5, -1410.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 计数DP&#45;&gt;62 -->
   <g class="edge" id="edge22">
@@ -792,6 +812,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(611.5, -1338.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 62&#45;&gt;64 -->
   <g class="edge" id="edge23">
@@ -813,6 +837,10 @@
       63. 不同路径 II
      </text>
     </a>
+   </g>
+   <g transform="translate(581.0, -1266.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 64&#45;&gt;63 -->
@@ -1980,6 +2008,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1532.5, -1410.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 博弈&#45;&gt;292 -->
   <g class="edge" id="edge84">
@@ -2816,6 +2848,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1910.0, -1338.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 516&#45;&gt;5 -->
   <g class="edge" id="edge125">
@@ -3123,6 +3159,10 @@
       10. 正则表达式匹配
      </text>
     </a>
+   </g>
+   <g transform="translate(2273.5, -1338.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 678&#45;&gt;10 -->
@@ -3454,6 +3494,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(2450.5, -834.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 1621&#45;&gt;15 -->
   <g class="edge" id="edge157">
@@ -3585,6 +3629,10 @@
       338. 比特位计数
      </text>
     </a>
+   </g>
+   <g transform="translate(2649.0, -1410.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 二进制与DP&#45;&gt;338 -->

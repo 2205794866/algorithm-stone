@@ -270,6 +270,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(207.5, -1122.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 遍历二叉树1&#45;&gt;100 -->
   <g class="edge" id="edge2">
@@ -291,6 +295,10 @@
       101. 对称二叉树
      </text>
     </a>
+   </g>
+   <g transform="translate(204.5, -1050.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 100&#45;&gt;101 -->
@@ -314,6 +322,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(204.5, -978.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 101&#45;&gt;104 -->
   <g class="edge" id="edge4">
@@ -335,6 +347,10 @@
       110. 平衡二叉树
      </text>
     </a>
+   </g>
+   <g transform="translate(143.5, -906.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 104&#45;&gt;110 -->
@@ -358,6 +374,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(136.5, -834.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 110&#45;&gt;112 -->
   <g class="edge" id="edge6">
@@ -380,6 +400,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(139.5, -762.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 112&#45;&gt;226 -->
   <g class="edge" id="edge7">
@@ -401,6 +425,10 @@
       530. 二叉搜索树的最小绝对差
      </text>
     </a>
+   </g>
+   <g transform="translate(170.5, -690.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 226&#45;&gt;530 -->
@@ -578,6 +606,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(418.5, -1122.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 二叉搜索树中序遍历&#45;&gt;235 -->
   <g class="edge" id="edge17">
@@ -753,6 +785,10 @@
       111. 二叉树的最小深度
      </text>
     </a>
+   </g>
+   <g transform="translate(576.5, -1122.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 层次遍历&#45;&gt;111 -->
@@ -1149,6 +1185,10 @@
       108. 将有序数组转换为二叉搜索树
      </text>
     </a>
+   </g>
+   <g transform="translate(805.5, -978.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 95&#45;&gt;108 -->
@@ -1634,6 +1674,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1180.0, -1122.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 遍历二叉树2&#45;&gt;94 -->
   <g class="edge" id="edge70">
@@ -1898,6 +1942,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1338.5, -1122.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 非递归实现&#45;&gt;144 -->
   <g class="edge" id="edge83">
@@ -1919,6 +1967,10 @@
       145. 二叉树的后序遍历
      </text>
     </a>
+   </g>
+   <g transform="translate(1337.5, -1050.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 144&#45;&gt;145 -->

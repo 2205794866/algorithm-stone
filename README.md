@@ -41,34 +41,34 @@
 
 #### Tree路线图（进度100%）
 1. [动画红黑树，旋转的艺术](https://mp.weixin.qq.com/s/2AfnnCALekwo4K_okRdpNg)  
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_tree.svg">
+<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_tree.svg">
 
 #### 动态规划路线图（进度40%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_dp.svg">
+<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_dp.svg">
 
 <!-- #### 并查集路线图（进度10%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_union_find.svg"> -->
+<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_union_find.svg"> -->
 
 #### 堆栈队列路线图（进度100%）
 1. [算法动画秒懂并查集](https://mp.weixin.qq.com/s/rF5bohHf3XfstGkjBawBuw)
 2. [动画解说单调栈](https://mp.weixin.qq.com/s/XsYD1lkiILcMcd3_vRws7A)  
 3. [滑动窗口入门](https://mp.weixin.qq.com/s/InpmYAfeesc7MHMCV50b-Q)  
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_heap_stack_queue.svg">
+<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_heap_stack_queue.svg">
 
 #### 链表路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_linked_list.svg">
+<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_linked_list.svg">
 
 #### 二分查找（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_binary_search.svg">
+<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_binary_search.svg">
 
 #### 几何题路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_geometry.svg">
+<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_geometry.svg">
 
 #### 小众题路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_mini.svg">
+<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/leetcode_mini.svg">
 
 ### Codeforces Div.3 Div.2路线图（进度1%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/codeforces.svg">
+<img src="https://raw.githubusercontent.com/2205794866/algorithm-stone/8c4fe9cb7c8521f3aa868ff183b2ef3b503339e2/images/codeforces.svg">
 
 ### 安装开发环境
 

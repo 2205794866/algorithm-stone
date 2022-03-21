@@ -316,6 +316,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(371.5, -2706.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 69&#45;&gt;278 -->
   <g class="edge" id="edge10">
@@ -360,6 +364,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(499.0, -2922.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 循环数组&#45;&gt;33 -->
   <g class="edge" id="edge13">
@@ -381,6 +389,10 @@
       81. 搜索旋转排序数组 II
      </text>
     </a>
+   </g>
+   <g transform="translate(531.5, -2850.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 33&#45;&gt;81 -->
@@ -470,6 +482,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(965.0, -2922.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- medium&#45;&gt;34 -->
   <g class="edge" id="edge20">
@@ -491,6 +507,10 @@
       74. 搜索二维矩阵
      </text>
     </a>
+   </g>
+   <g transform="translate(874.0, -2850.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 34&#45;&gt;74 -->

@@ -1,0 +1,6 @@
+.history/*
+*.exe
+Test
+.idea
+.vscode
+.vscode/settings.json

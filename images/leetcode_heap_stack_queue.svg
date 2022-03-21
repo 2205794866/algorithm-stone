@@ -1430,6 +1430,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1668.5, -1338.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 20&#45;&gt;155 -->
   <g class="edge" id="edge59">
@@ -1452,6 +1456,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1686.5, -1266.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 155&#45;&gt;225 -->
   <g class="edge" id="edge60">
@@ -1473,6 +1481,10 @@
       232. 用栈实现队列
      </text>
     </a>
+   </g>
+   <g transform="translate(1686.5, -1194.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 225&#45;&gt;232 -->
@@ -1891,6 +1903,10 @@
       71. 简化路径
      </text>
     </a>
+   </g>
+   <g transform="translate(1371.0, -1266.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 591&#45;&gt;71 -->
