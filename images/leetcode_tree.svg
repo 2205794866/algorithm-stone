@@ -1046,6 +1046,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(558.5, -546.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 545&#45;&gt;623 -->
   <g class="edge" id="edge34">
@@ -1067,6 +1071,10 @@
       662. 二叉树最大宽度
      </text>
     </a>
+   </g>
+   <g transform="translate(546.5, -474.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 623&#45;&gt;662 -->
@@ -1090,6 +1098,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(558.5, -402.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 662&#45;&gt;958 -->
   <g class="edge" id="edge36">
@@ -1111,6 +1123,10 @@
       919. 完全二叉树插入器
      </text>
     </a>
+   </g>
+   <g transform="translate(552.5, -330.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 958&#45;&gt;919 -->
@@ -1134,6 +1150,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(537.5, -258.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 919&#45;&gt;1104 -->
   <g class="edge" id="edge38">
@@ -1155,6 +1175,10 @@
       1161. 最大层内元素和
      </text>
     </a>
+   </g>
+   <g transform="translate(549.5, -186.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 1104&#45;&gt;1161 -->
@@ -1178,6 +1202,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(567.5, -114.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 1161&#45;&gt;1302 -->
   <g class="edge" id="edge40">
@@ -1199,6 +1227,10 @@
       1609. 奇偶树
      </text>
     </a>
+   </g>
+   <g transform="translate(525.5, -42.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 1302&#45;&gt;1609 -->
