@@ -1254,6 +1254,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(712.5, -1122.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 生成二叉树&#45;&gt;617 -->
   <g class="edge" id="edge43">
@@ -1275,6 +1279,10 @@
       95. 不同的二叉搜索树 II
      </text>
     </a>
+   </g>
+   <g transform="translate(764.5, -1050.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 617&#45;&gt;95 -->
@@ -1324,6 +1332,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(842.5, -906.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 108&#45;&gt;105 -->
   <g class="edge" id="edge46">
@@ -1345,6 +1357,10 @@
       106. 从中序与后序遍历序列构造二叉树
      </text>
     </a>
+   </g>
+   <g transform="translate(839.5, -834.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 105&#45;&gt;106 -->
