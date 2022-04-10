@@ -1696,6 +1696,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1048.5, -906.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 114&#45;&gt;988 -->
   <g class="edge" id="edge61">
@@ -1717,6 +1721,10 @@
       1123. 最深叶节点的最近公共祖先
      </text>
     </a>
+   </g>
+   <g transform="translate(1051.5, -834.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 988&#45;&gt;1123 -->
@@ -1740,6 +1748,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1051.5, -762.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 1123&#45;&gt;1315 -->
   <g class="edge" id="edge63">
@@ -1761,6 +1773,10 @@
       1367. 二叉树中的列表
      </text>
     </a>
+   </g>
+   <g transform="translate(1020.5, -690.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 1315&#45;&gt;1367 -->
@@ -1784,6 +1800,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1043.5, -618.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 1367&#45;&gt;1372 -->
   <g class="edge" id="edge65">
@@ -1805,6 +1825,10 @@
       1457. 二叉树中的伪回文路径
      </text>
     </a>
+   </g>
+   <g transform="translate(1037.5, -546.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 1372&#45;&gt;1457 -->
