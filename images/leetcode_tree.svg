@@ -1852,6 +1852,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1028.5, -1122.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 叶子节点&#45;&gt;129 -->
   <g class="edge" id="edge68">
@@ -1900,6 +1904,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1179.5, -1050.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 94&#45;&gt;102 -->
   <g class="edge" id="edge71">
@@ -1922,6 +1930,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1220.5, -978.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 102&#45;&gt;236 -->
   <g class="edge" id="edge72">
@@ -1943,6 +1955,10 @@
       508. 出现次数最多的子树元素和
      </text>
     </a>
+   </g>
+   <g transform="translate(1255.5, -906.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 236&#45;&gt;508 -->
@@ -1988,6 +2004,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1228.5, -762.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 510&#45;&gt;951 -->
   <g class="edge" id="edge75">
@@ -2009,6 +2029,10 @@
       971. 翻转二叉树以匹配先序遍历
      </text>
     </a>
+   </g>
+   <g transform="translate(1258.5, -690.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 951&#45;&gt;971 -->
@@ -2032,6 +2056,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1267.5, -618.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 971&#45;&gt;1026 -->
   <g class="edge" id="edge77">
@@ -2054,6 +2082,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1261.5, -546.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 1026&#45;&gt;1038 -->
   <g class="edge" id="edge78">
@@ -2075,6 +2107,10 @@
       1379. 找出克隆二叉树中的相同节点
      </text>
     </a>
+   </g>
+   <g transform="translate(1267.5, -474.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 1038&#45;&gt;1379 -->
