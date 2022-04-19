@@ -2494,6 +2494,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1836.5, -978.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 863&#45;&gt;979 -->
   <g class="edge" id="edge98">
@@ -2538,6 +2542,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1844.5, -834.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 742&#45;&gt;124 -->
   <g class="edge" id="edge100">
@@ -2559,6 +2567,10 @@
       1443. 收集树上所有苹果的最少时间
      </text>
     </a>
+   </g>
+   <g transform="translate(1868.5, -762.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 124&#45;&gt;1443 -->
@@ -2582,6 +2594,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1844.5, -690.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 1443&#45;&gt;1530 -->
   <g class="edge" id="edge102">
@@ -2603,6 +2619,10 @@
       1145. 二叉树着色游戏
      </text>
     </a>
+   </g>
+   <g transform="translate(1832.5, -618.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 1530&#45;&gt;1145 -->
