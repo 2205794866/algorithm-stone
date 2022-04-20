@@ -54,7 +54,8 @@
         "unordered_map": "cpp",
         "bit": "cpp",
         "clocale": "cpp",
-        "ctime": "cpp"
+        "ctime": "cpp",
+        "*.tcc": "cpp"
     },
     "python.pythonPath": "C:\\Program Files\\Python39\\python.exe",
     "C_Cpp.errorSquiggles": "Disabled"
