@@ -16,38 +16,69 @@
 using namespace std;
 
 class Solution {
-    int Find(vector<int> &parent, int index)
+
+
+struct UnionFind {
+    vector<int> ancestor;
+    UnionFind(int n)
     {
-        if(parent[index] != index)
-        Find(parent, parent[index]);
-        return parent[index];
+        ancestor.resize(n);
+        for(int i = 0; i<n; i++)
+        {
+            ancestor[i] = i;
+        }
     }
 
-
-    void Union(vector<int> &parent, int node1, int node2)
+    int find(int index)
     {
-        parent[Find(parent, node2)] = Find(parent, node1);
+        return index == ancestor[index] ? index: ancestor[index] = find(ancestor[index]);
     }
 
-
+    void merge(int u, int v)
+    {
+        ancestor[find(u)] = find(v);
+    }
+};
 
 public:
     vector<int> findRedundantDirectedConnection(vector<vector<int>>& edges) {
         int n = edges.size();
-        vector<int> parent(n + 1);
-        for(int i = 1; i<n+1; i++)
+        UnionFind uf = UnionFind(n + 1);
+        auto parent = vector<int>(n + 1);
+        for(int i = 1; i<=n; i++)
         parent[i] = i;
-        for(auto &edge: edges)
+        int conflict = -1;
+        int cycle = -1;
+        for(auto i = 0; i<n; i++)
         {
+            auto edge = edges[i];
             int node1 = edge[0], node2 = edge[1];
-            if(Find(parent, node1) != Find(parent, node2))
+            if(parent[node2] != node2)
+            conflict = i;
+            else 
             {
-                Union(parent, node1, node2);
+                parent[node2] = node1;
+                if(uf.find(node1) == uf.find(node2))
+                cycle = i;
+                else
+                uf.merge(node1, node2);
             }
-            else
-                return edge;
         }
-        return vector<int> {};
+        if(conflict < 0)
+        {
+            return {edges[cycle][0], edges[cycle][1]};
+        }
+        else {
+            auto conflicEdge = edges[conflict];
+            if( cycle >= 0) {
+                return {parent[conflicEdge[1]], conflicEdge[1]};
+            }
+            else {
+                return {conflicEdge[0], conflicEdge[1]};
+            }
+        }
+
+
     }
 };
 // @lc code=end

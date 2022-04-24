@@ -2698,6 +2698,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1952.5, -1122.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 图与树&#45;&gt;684 -->
   <g class="edge" id="edge107">
@@ -2719,6 +2723,10 @@
       685. 冗余连接 II
      </text>
     </a>
+   </g>
+   <g transform="translate(1984.0, -1050.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 684&#45;&gt;685 -->
@@ -2808,6 +2816,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(2113.5, -1122.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 剪枝&#45;&gt;814 -->
   <g class="edge" id="edge113">
@@ -2829,6 +2841,10 @@
       865. 具有所有最深节点的最小子树
      </text>
     </a>
+   </g>
+   <g transform="translate(2208.5, -1050.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 814&#45;&gt;865 -->
@@ -2852,6 +2868,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(2160.5, -978.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 865&#45;&gt;1110 -->
   <g class="edge" id="edge115">
@@ -2874,6 +2894,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(2199.5, -906.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 1110&#45;&gt;1325 -->
   <g class="edge" id="edge116">
@@ -2895,6 +2919,10 @@
       1339. 分裂二叉树的最大乘积
      </text>
     </a>
+   </g>
+   <g transform="translate(2199.5, -834.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 1325&#45;&gt;1339 -->
