@@ -2750,6 +2750,10 @@
      </text>
     </a>
    </g>
+   <g transform="translate(1993.5, -978.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
+   </g>
   </g>
   <!-- 685&#45;&gt;1466 -->
   <g class="edge" id="edge109">
@@ -2771,6 +2775,10 @@
       1719. 重构一棵树的方案数
      </text>
     </a>
+   </g>
+   <g transform="translate(2011.5, -906.0) scale(0.3)">
+    <circle cx="24" cy="24" fill="#4caf50" r="21"/>
+    <polygon fill="#ccff90" points="34.6,14.6 21,28.2 15.4,22.6 12.6,25.4 21,33.8 37.4,17.4"/>
    </g>
   </g>
   <!-- 1466&#45;&gt;1719 -->
