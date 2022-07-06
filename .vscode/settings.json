@@ -58,5 +58,6 @@
         "*.tcc": "cpp"
     },
     "python.pythonPath": "C:\\Program Files\\Python39\\python.exe",
-    "C_Cpp.errorSquiggles": "Disabled"
+    "C_Cpp.errorSquiggles": "Disabled",
+    "svg.preview.background": "editor"
 }
